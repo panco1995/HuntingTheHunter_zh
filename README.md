@@ -14,7 +14,7 @@
 
 ## 安装
 
-1. 复制 `dist/Hunting The Hunter_Data` 整个文件夹到游戏根目录覆盖原文件。
+1. 复制 `dist`目录下`Hunting The Hunter_Data` 整个文件夹到游戏根目录覆盖原文件（可直接下载HuntingTheHunter_zh.zip解压）
 
 ## 卸载
 
