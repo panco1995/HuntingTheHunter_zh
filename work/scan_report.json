@@ -1,0 +1,989 @@
+{
+  "data_dir": "E:\\Steam\\steamapps\\common\\Hunting The Hunter\\Hunting The Hunter_Data",
+  "asset_file_count": 109,
+  "object_count": 5094,
+  "type_counts": {
+    "MonoScript": 1546,
+    "MonoBehaviour": 1078,
+    "GameObject": 703,
+    "RectTransform": 689,
+    "CanvasRenderer": 624,
+    "Texture2D": 111,
+    "Sprite": 70,
+    "Shader": 49,
+    "CanvasGroup": 41,
+    "AudioClip": 40,
+    "AudioSource": 39,
+    "Canvas": 39,
+    "Transform": 14,
+    "Mesh": 13,
+    "Material": 5,
+    "ComputeShader": 4,
+    "PreloadData": 2,
+    "Font": 2,
+    "PlayerSettings": 1,
+    "InputManager": 1,
+    "TagManager": 1,
+    "AudioManager": 1,
+    "ScriptMapper": 1,
+    "MonoManager": 1,
+    "GraphicsSettings": 1,
+    "TimeManager": 1,
+    "DelayedCallManager": 1,
+    "PhysicsManager": 1,
+    "BuildSettings": 1,
+    "QualitySettings": 1,
+    "ResourceManager": 1,
+    "NavMeshProjectSettings": 1,
+    "Physics2DSettings": 1,
+    "RuntimeInitializeOnLoadManager": 1,
+    "StreamingManager": 1,
+    "VFXManager": 1,
+    "Cubemap": 1,
+    "Camera": 1,
+    "AudioListener": 1,
+    "RenderSettings": 1,
+    "LightmapSettings": 1,
+    "NavMeshSettings": 1,
+    "TextAsset": 1
+  },
+  "candidate_count": 1089,
+  "typetree_failures": [
+    {
+      "asset_file": "level0",
+      "path_id": 1906,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 1907,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 1914,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 1916,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 1918,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 1919,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 1924,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 1925,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 1937,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 1941,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 1942,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 1948,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 1952,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 1953,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 1960,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 1961,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 1969,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 1977,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 1980,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 1989,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 1998,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2002,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2010,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2019,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2023,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2033,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2049,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2051,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2052,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2057,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2060,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2067,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2068,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2073,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2076,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2077,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2085,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2086,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2092,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2093,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2100,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2102,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2107,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2110,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2111,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2117,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2122,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2125,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2126,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2137,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2138,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2146,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2156,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2160,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2164,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2165,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2171,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2172,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2181,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2186,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2190,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2196,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2197,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2212,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2217,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2218,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2226,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2227,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2241,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2242,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2248,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2249,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2265,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2266,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2271,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2277,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2278,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2283,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2285,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2290,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2311,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2314,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2322,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2323,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2328,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2331,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2332,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2342,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2350,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2352,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2354,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2363,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2369,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2379,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2393,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2398,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2400,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2405,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2413,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2425,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2427,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2430,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2442,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2449,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2458,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2463,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2470,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2471,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2494,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2506,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2518,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2525,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2527,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2528,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2538,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2540,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2542,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2544,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2546,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2551,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2552,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2562,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2563,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2569,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2570,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2601,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2611,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2614,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2624,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2625,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2642,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2657,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2667,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2668,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2679,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2692,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2702,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2703,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2731,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2752,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2766,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2767,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2772,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2775,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2792,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2793,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2800,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2801,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2806,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2809,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2814,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2815,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2823,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2833,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2840,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    },
+    {
+      "asset_file": "level0",
+      "path_id": 2841,
+      "type": "MonoBehaviour",
+      "error": "EOFError: read_str out of bounds"
+    }
+  ]
+}

@@ -1,0 +1,1091 @@
+﻿asset_file	path_id	object_type	component_name	script	script_path_id	field	text
+level0	1898	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	1898	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	1898	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	1898	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	1898	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	1898	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	1898	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	1898	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	1900	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	1900	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	1900	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	1900	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	1900	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	1900	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	1900	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	1900	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	1902	MonoBehaviour			9630121984	m_Text	QUIT
+level0	1910	MonoBehaviour			20887633920	level1atext	As Emily sat in the diner, she noticed a man staring at her. He was tall and muscular, with a scar on his cheek. Emily felt a shiver run down her spine; she didn't like the way he was looking at her. She finished her coffee and quickly left the diner, not wanting to stay in the same room as the man. 
+level0	1911	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	1911	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	1911	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	1911	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	1911	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	1911	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	1911	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	1911	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	1922	MonoBehaviour			20887633920	level1atext	Emily dug deeper and found out that Thomas had been a loner, with no family or friends. She also discovered that he had been living in a remote cabin in the woods, not far from where she had been attacked. Emily knew what she had to do. She waited until nightfall and sneaked out of the safe house. She stole a car and drove to the woods, determined to find the killer's lair. 
+level0	1928	MonoBehaviour			20887633920	level1atext	Emily started the car and followed the directions on the map. The rain was still pouring down, and the roads were slippery, but she drove carefully, hoping to avoid any accidents. As she drove, she thought about what had happened to her in the woods. Who was the man who had attacked her? What was the creature in the basement? Emily knew that she would never forget this night. 
+level0	1930	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	1930	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	1930	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	1930	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	1930	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	1930	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	1930	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	1930	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	1935	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	1936	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	1938	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	1938	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	1938	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	1938	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	1938	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	1938	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	1938	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	1938	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	1938	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[1].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	1938	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[1].m_MethodName	SetActive
+level0	1938	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[1].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	1945	MonoBehaviour			20887633920	level1atext	"As Emily stepped inside the cabin, she saw a small figure huddled in the corner, their back to her. The figure was crying softly, and Emily felt her heart break as she realized that it was a young girl. She took a few steps towards her, trying to make as little noise as possible. Suddenly, the girl turned around, and Emily saw that her eyes were empty, as if she had given up all hope. ""Please, help me,"" she whispered. ""He's going to kill me."" Emily knew that she had to act quickly. She took the girl's hand and led her outside, towards the car. As they walked, Emily could hear footsteps coming from the cabin. She looked over her shoulder and saw a man emerging from the doorway. It was the man from the diner. "
+level0	1947	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	1956	MonoBehaviour			20887633920	level1atext	Suddenly, Emily saw a light in the distance. She couldn't believe her luck. She ran towards the light, hoping that it was a house or a gas station, anything that could help her. As she got closer, she realized that it was a car, parked by the side of the road. The door was open, and the engine was running. 
+level0	1958	MonoBehaviour			9630121984	m_Text	QUIT
+level0	1964	MonoBehaviour			20887633920	level1atext	Emily's heart was pounding as she tried to break free from her seatbelt. The man continued to pound on the window, his face twisted into a grotesque mask of rage. Suddenly, the window shattered, and the man reached inside, grabbing Emily by the hair. She screamed as he dragged her out of the car and into the darkness beyond. 
+level0	1965	MonoBehaviour			9630121984	m_Text	QUIT
+level0	1966	MonoBehaviour			9630121984	m_Text	QUIT
+level0	1967	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	1970	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	1972	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	1972	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	1972	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	1972	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	1972	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	1972	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	1972	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	1972	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	1975	MonoBehaviour			9630121984	m_Text	QUIT
+level0	1979	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	1981	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	1982	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	1982	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	1982	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	1982	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	1982	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	1982	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	1982	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	1982	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	1985	MonoBehaviour			9630121984	m_Text	QUIT
+level0	1986	MonoBehaviour			9630121984	m_Text	QUIT
+level0	1987	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	1990	MonoBehaviour			9630121984	m_Text	RESTART
+level0	1991	MonoBehaviour			9630121984	m_Text	QUIT
+level0	1993	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	1993	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	1993	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	1993	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	1993	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	1993	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	1993	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	1993	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2006	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2006	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2006	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2006	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2006	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2006	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2006	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2006	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2008	MonoBehaviour			9630121984	m_Text	NORMAL PLAY
+level0	2009	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2014	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2015	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2018	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2020	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2022	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2024	MonoBehaviour			9630121984	m_Text	AUDIO OFF
+level0	2025	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2026	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2026	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2026	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2026	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2026	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2026	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2026	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2026	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2028	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2031	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2032	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2036	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2037	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2038	MonoBehaviour			9630121984	m_Text	AUDIO OFF
+level0	2041	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2043	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2045	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2045	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2045	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2045	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2045	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2045	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2045	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2045	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2055	MonoBehaviour			20887633920	level1atext	As Emily walked down the street, she saw the man from the diner following her. She quickened her pace, but he kept getting closer. Suddenly, he grabbed her by the arm and pulled her into an alleyway. Emily screamed, but no one came to help her. 
+level0	2058	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2059	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2061	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2062	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2062	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2062	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2062	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2062	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2062	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2062	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2062	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2064	MonoBehaviour			9630121984	m_Text	PLAY
+level0	2065	MonoBehaviour			9630121984	m_Text	TEXT ON
+level0	2071	MonoBehaviour			20887633920	level1atext	Emily screamed and ran in the opposite direction, not caring where she was going. She could hear the creature's footsteps behind her, getting closer and closer. Suddenly, she tripped over a loose floorboard and fell to the ground. The creature was on top of her, its teeth bared, ready to strike. 
+level0	2080	MonoBehaviour			20887633920	level1atext	The police took Emily to a safe house, where she would be protected until they caught the killer. They told her not to leave the house under any circumstances, but Emily knew that she had to do something to help catch the killer. She couldn't just sit around and wait. 
+level0	2089	MonoBehaviour			20887633920	level1atext	Emily reached the bottom of the stairs and found herself in a dimly lit room. She searched for a place to hide, but the room was empty. Suddenly, she heard the growling again, and this time it was louder. Emily turned around, and to her horror, saw a pair of glowing eyes staring back at her. It was a creature, a monster with razor-sharp teeth and claws. 
+level0	2096	MonoBehaviour			20887633920	level1atext	"The killer chuckled. ""We'll see about that,"" he said before hanging up. Emily knew that she had to be careful. She left the police station and drove to the safe house, where she barricaded herself inside. She called the police and told them about the phone call, and they promised to increase their patrols in the area. As Emily sat alone in the safe house, she couldn't shake the feeling that she was being watched. She looked out the window and saw a figure standing in the shadows. It was the killer, and he was watching her. "
+level0	2101	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2103	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2105	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2106	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2114	MonoBehaviour			20887633920	level1atext	Emily's mind raced as she searched for a way out. She noticed a sharp rock nearby and struggled to free her hand to grab it. With all her might, she managed to break free and grab the rock, swinging it at the man's head. He fell to the ground, unconscious. Emily ran as fast as she could, not daring to look back. 
+level0	2115	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2118	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2118	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2118	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2118	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2118	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2118	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2118	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2118	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2121	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2124	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2127	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2127	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2127	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2127	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2127	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2127	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2127	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2127	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2131	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2131	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2131	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2131	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2131	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2131	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2131	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2131	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2134	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2135	MonoBehaviour			9630121984	m_Text	WELCOME! IF YOU WOULD LIKE TO CUSTOMIZE YOUR STORY EXPERIENCE YOU CAN MODIFY THEM HERE.  IF YOU WOULD LIKE TO GET STARTED WITH OR WITHOUT ANY CHANGES SIMPLY CLICK THE PLAY BUTTON TO BEGIN.
+level0	2141	MonoBehaviour			20887633920	level1atext	As Emily drove deeper into the woods, she felt a sense of dread wash over her. She knew that she was putting herself in danger, but she couldn't let the killer continue to prey on innocent people. She drove until she came to a clearing, where she saw a cabin in the distance. It was surrounded by trees, and there was no sign of anyone around. Emily parked the car and walked towards the cabin. She could hear a faint sound coming from inside; it sounded like someone was crying. Emily took a deep breath and pushed open the door. 
+level0	2142	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2148	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2151	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2152	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2153	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2155	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2157	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2158	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2162	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2168	MonoBehaviour			20887633920	level1atext	Emily searched the basement for a way out and found a small window. She crawled through it and found herself outside, in the pouring rain. She was free, but she was still lost in the woods, with no idea how to get back to civilization. Emily started walking, hoping that she would stumble upon a road or a house soon. 
+level0	2169	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2173	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2175	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2176	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2178	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2179	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2182	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2184	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2185	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2187	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2189	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2192	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2192	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2192	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2192	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2192	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2192	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2192	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2192	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2194	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2200	MonoBehaviour			20887633920	level1atext	Emily entered the cabin, looking for a place to hide. She saw a staircase leading to the basement and decided to hide there. As she descended, she heard a strange noise coming from the darkness. It was a low, guttural growl, and it seemed to be getting closer. 
+level0	2202	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2203	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2206	MonoBehaviour			9630121984	m_Text	TEXT OFF
+level0	2207	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2208	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2208	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2208	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2208	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2208	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2208	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2208	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2208	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2211	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2213	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2214	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2214	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2214	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2214	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2214	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2214	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2214	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2214	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2221	MonoBehaviour			20887633920	level1atext	Emily closed her eyes, bracing herself for the creature's attack, but nothing happened. She opened her eyes and saw that the creature had vanished. She was alone in the basement, surrounded by darkness. Emily took a deep breath, trying to steady her nerves. She knew that she had to find a way out of the cabin and away from this nightmare. 
+level0	2222	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2223	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2223	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2223	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2223	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2223	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2223	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2223	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2223	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2230	MonoBehaviour			20887633920	level1atext	The police arrived a few minutes later, and Emily was taken into protective custody. The killer was arrested and charged with the murders of seven women, including the young girl from the woods. Emily felt a sense of relief as she realized that the killer was finally behind bars. But she knew that the scars from her experience would never fully heal. 
+level0	2231	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2231	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2231	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2231	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2231	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2231	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2231	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2231	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2233	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2235	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2237	MonoBehaviour			9630121984	m_Text	WELCOME! IF YOU WOULD LIKE TO CUSTOMIZE YOUR STORY EXPERIENCE YOU CAN MODIFY THEM HERE.  IF YOU WOULD LIKE TO GET STARTED WITH OR WITHOUT ANY CHANGES SIMPLY CLICK THE PLAY BUTTON TO BEGIN.
+level0	2245	MonoBehaviour			20887633920	level1atext	"Emily drove the girl to the police station and told them everything that had happened. They took the girl into protective custody and started an immediate search for the killer. Emily knew that they had to find him before he killed anyone else. Over the next few days, Emily worked closely with the police, providing them with any information that she could find about the killer. She spent countless hours researching and investigating, determined to bring him to justice. One night, as Emily was working late at the police station, she received a call from an unknown number. She hesitated before answering, but curiosity got the best of her. ""Hello?"" she said. There was a brief pause before a low, menacing voice spoke. ""You shouldn't have interfered, Emily. You're going to regret it."" Emily's heart raced as she realized that the killer had found her. She knew that she was in danger, but she refused to back down. ""You're not going to scare me,"" she said. ""I'm going to make sure that you pay for what you've done."" "
+level0	2252	MonoBehaviour			20887633920	level1atext	As they drove away, Emily felt a sense of relief wash over her. They had escaped the killer's lair, and they were both safe. But as she looked at the girl in the passenger seat, she knew that there were many others who weren't as lucky. Emily made a vow to herself that she would do everything in her power to bring the killer to justice. She would make sure that no one else suffered the same fate as the girl in the woods. 
+level0	2253	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2253	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2253	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2253	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2253	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2253	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2253	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2253	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2255	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2256	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2257	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2260	MonoBehaviour			9630121984	m_Text	PLAY
+level0	2262	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2262	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2262	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2262	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2262	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2262	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2262	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2262	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2269	MonoBehaviour			20887633920	level1atext	"Emily's heart pounded in her chest as she watched the figure in the shadows. She knew that she had to act quickly before he made a move. She grabbed her phone and dialed 911. ""The killer is outside my safe house,"" she said, her voice shaking. ""Please, you have to help me."" The operator assured her that help was on the way, but Emily knew that she couldn't wait. She needed to protect herself. She looked around the room and saw a fireplace poker. It wasn't much, but it was better than nothing. Emily approached the door, the poker in her hand. She could hear footsteps approaching, and her heart raced as she waited for the killer to burst through the door. Suddenly, the door burst open, and the killer lunged at her with a knife. Emily swung the poker, hitting him in the face. He stumbled back, but he didn't fall. He lunged at her again, but this time, Emily was ready. She swung the poker again, hitting him in the side of the head. He fell to the ground, unconscious. "
+level0	2272	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2272	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2272	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2272	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2272	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2272	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2272	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2272	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2274	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2281	MonoBehaviour			20887633920	level1atext	"The man had a knife in his hand, and he was grinning maniacally. ""You shouldn't have come here,"" he said. ""You've ruined everything."" Emily knew that she had to protect the girl at all costs. She pushed her towards the car and stood between her and the man. ""Leave her alone,"" she said. ""You're not going to hurt anyone else."" The man laughed and lunged at Emily with the knife. Emily dodged him and ran towards the car, the girl in tow. She started the engine and drove away as fast as she could. "
+level0	2282	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2288	MonoBehaviour			8304721920	m_HorizontalAxis	Horizontal
+level0	2288	MonoBehaviour			8304721920	m_VerticalAxis	Vertical
+level0	2288	MonoBehaviour			8304721920	m_SubmitButton	Submit
+level0	2288	MonoBehaviour			8304721920	m_CancelButton	Cancel
+level0	2292	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2294	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2294	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2294	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2294	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2294	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2294	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2294	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2294	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2296	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2298	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2300	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2301	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2302	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2304	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2304	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2304	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2304	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2304	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2304	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2304	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2304	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2306	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2306	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2306	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2306	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2306	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2306	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2306	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2306	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2310	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2313	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2318	MonoBehaviour			9630121984	m_Text	NORMAL PLAY
+level0	2319	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2320	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2326	MonoBehaviour			20887633920	level1atext	"Emily struggled against the man's grip, but he was too strong. He pushed her against the wall and held a knife to her throat. ""I saw you in the woods,"" he said. ""You're not safe here."" Emily's heart raced as she tried to think of a way to escape. She knew she couldn't overpower the man, but maybe she could outsmart him. ""Please,"" she pleaded. ""I don't know what you're talking about. Let me go."" The man hesitated for a moment, and Emily saw a flicker of doubt in his eyes. She seized the opportunity and kicked him in the groin. He doubled over in pain, and she ran out of the alleyway as fast as she could. "
+level0	2335	MonoBehaviour			20887633920	level1atext	The police arrived, and Emily told them everything that had happened to her. They took her statement and promised to investigate. They also told her that there had been a string of disappearances in the town recently, and that they suspected a serial killer was on the loose. Emily couldn't believe her ears. She had stumbled into a town where a killer was lurking, and she had narrowly escaped his grasp. She shuddered to think what might have happened if she hadn't fought back. 
+level0	2339	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2339	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2339	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2339	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2339	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2339	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2339	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2339	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2341	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2343	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2343	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2343	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2343	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2343	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2343	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2343	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2343	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2345	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2345	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2345	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2345	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2345	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2345	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2345	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2345	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2347	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2348	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2348	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2348	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2348	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2348	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2348	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2348	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2348	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2351	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2355	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2355	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2355	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2355	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2355	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2355	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2355	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2355	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2357	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2357	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2357	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2357	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2357	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2357	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2357	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2357	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2362	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2364	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2365	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2366	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2367	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2368	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2370	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2370	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2370	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2370	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2370	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2370	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2370	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2370	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2373	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2374	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2376	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2376	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2376	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2376	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2376	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2376	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2376	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2376	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2384	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2386	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2386	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2386	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2386	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2386	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2386	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2386	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2386	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2389	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2396	MonoBehaviour			9630121984	m_Text	STORY TEXT ON
+level0	2401	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2404	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2406	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2409	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2416	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2416	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2416	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2416	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2416	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2416	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2416	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2416	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2418	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2418	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2418	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2418	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2418	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2418	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2418	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2418	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2420	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2423	MonoBehaviour			9630121984	m_Text	AUTO PLAY
+level0	2424	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2426	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2428	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2431	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2433	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2433	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2433	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2433	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2433	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2433	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2433	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2433	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2435	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2438	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2440	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2440	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2440	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2440	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2440	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2440	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2440	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2440	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2443	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2443	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2443	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2443	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2443	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2443	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2443	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2443	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2448	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2451	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2451	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2451	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2451	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2451	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2451	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2451	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2451	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2454	MonoBehaviour			9630121984	m_Text	NORMAL PLAY
+level0	2457	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2461	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2462	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2464	MonoBehaviour			9630121984	m_Text	AUTO PLAY
+level0	2465	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2465	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2465	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2465	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2465	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2465	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2465	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2465	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2474	MonoBehaviour			20887633920	level1atext	"As Emily waited for the police to arrive, she realized that she had been carrying the map and flashlight with her. She looked at the map again and saw that there was a small note written in the corner. It said, ""Don't trust anyone in this town."" Emily's blood ran cold as she thought about the man from the diner and the alleyway. Who else in this town couldn't be trusted? She knew that she had to be careful. "
+level0	2475	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2475	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2475	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2475	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2475	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2475	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2475	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2475	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2477	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2478	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2478	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2478	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2478	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2478	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2478	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2478	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2478	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2481	MonoBehaviour			9630121984	m_Text	AUDIO ON
+level0	2485	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2485	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2485	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2485	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2485	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2485	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2485	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2485	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2488	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2489	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2491	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2491	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2491	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2491	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2491	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2491	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2491	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2491	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2493	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2495	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2495	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2495	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2495	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2495	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2495	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2495	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2495	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2497	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2499	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2499	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2499	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2499	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2499	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2499	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2499	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2499	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2502	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2502	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2502	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2502	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2502	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2502	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2502	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2504	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2507	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2508	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2512	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2513	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2516	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2523	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2531	MonoBehaviour			20887633920	level1atext	Emily hesitated for a moment but decided to pull over. She rolled down her window and asked the man if he needed any help. He didn't say anything and just stared at her with his dark, soulless eyes. Emily's heart started racing as she realized that something wasn't right. Suddenly, the man lunged towards her, and Emily screamed as she tried to drive away. But it was too late; the man had already grabbed onto her car, and she couldn't shake him off. 
+level0	2532	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2532	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2532	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2532	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2532	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2532	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2532	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2532	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2537	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2539	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2541	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2547	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2547	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2547	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2547	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2547	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2547	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2547	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2547	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2555	MonoBehaviour			20887633920	level1atext	Years later, Emily would still wake up in the middle of the night, covered in sweat, reliving the events of that fateful night. But she also knew that she had done something important. She had helped bring a killer to justice, and she had saved the life of a young girl. And that was something that she could be proud of.
+level0	2557	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2558	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2559	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2559	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2559	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2559	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2559	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2559	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2559	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2559	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2566	MonoBehaviour			20887633920	level1atext	Emily decided to do some investigating of her own. She went online and searched for any information she could find about the disappearances in the town. She found a local newspaper article that mentioned a man named Thomas, who had been missing for over a month. Emily's heart raced as she read the article; the man in the woods had introduced himself as Thomas. 
+level0	2567	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2573	MonoBehaviour			20887633920	level1atext	Emily ran through the woods, branches slapping her in the face, twigs and leaves crunching under her feet. She didn't know where she was going, but she knew she had to keep moving. After what felt like hours, she stumbled upon an old abandoned cabin. It was dark and foreboding, but it was better than being out in the open. 
+level0	2575	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2575	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2575	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2575	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2575	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2575	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2575	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2575	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2577	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2577	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2577	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2577	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2577	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2577	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2577	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2577	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2579	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2583	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2583	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2583	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2583	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2583	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2583	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2583	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2583	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2587	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2587	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2587	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2587	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2587	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2587	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2587	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2587	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2589	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2592	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2593	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2595	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2596	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2598	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2599	MonoBehaviour			9630121984	m_Text	NORMAL PLAY
+level0	2604	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2605	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2606	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2612	MonoBehaviour			20887633920	level1atext	It was a dark and stormy night as Emily drove down the winding road, her headlights barely illuminating the way ahead. She had taken a wrong turn and was now lost in the middle of nowhere. Suddenly, she saw a figure in the distance, a shadowy figure standing by the side of the road. Emily slowed down, wondering if she should stop and offer help. As she got closer, she realized it was a man, and he was beckoning her to come closer. 
+level0	2616	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2619	MonoBehaviour			9630121984	m_Text	RESTART
+level0	2621	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2622	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2628	MonoBehaviour			20887633920	level1atext	Emily ran until she was out of breath, not stopping until she reached the outskirts of the town. She found a payphone and called the police, telling them everything that had happened to her that night. They promised to send a car to pick her up and take her to the station. 
+level0	2630	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2631	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2632	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2632	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2632	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2632	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2632	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2632	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2632	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2632	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2636	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2639	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2640	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2641	MonoBehaviour			9630121984	m_Text	YOUR AUDIO-VISUAL EXPERIENCE HAS COMPLETED!  IF YOU WOULD LIKE TO ENJOY IT AGAIN PRESS RESTART BELOW!
+level0	2643	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2643	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2643	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2643	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2643	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2643	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2643	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2643	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2645	MonoBehaviour			9630121984	m_Text	AUDIO ON
+level0	2647	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2649	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2650	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2650	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2650	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2650	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2650	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2650	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2650	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2650	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2654	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2654	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2654	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2654	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2654	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2654	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2654	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2654	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2658	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2658	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2658	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2658	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2658	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2658	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2658	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2658	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2660	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2660	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2660	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2660	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2660	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2660	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2660	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2660	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2665	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2671	MonoBehaviour			20887633920	level1atext	After what felt like an eternity, Emily saw the lights of a small town in the distance. She smiled; she had made it. She drove into town and parked the car outside a diner. She went inside and ordered a cup of coffee, trying to warm up her cold and shaking body. 
+level0	2672	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2672	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2672	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2672	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2672	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2672	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2672	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2672	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2675	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2675	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2675	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2675	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2675	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2675	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2675	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2675	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2677	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2678	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2681	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2682	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2683	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2686	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2686	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2686	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2686	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2686	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2686	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2686	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2686	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2688	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2688	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2688	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2688	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2688	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2688	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2688	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2688	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2690	MonoBehaviour			9630121984	m_Text	TEXT OFF
+level0	2693	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2694	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2698	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2706	MonoBehaviour			20887633920	level1atext	As Emily walked, she heard strange noises coming from the woods around her. She didn't know what they were, but they sounded like animals. Emily tried to walk faster, but her feet were sore, and her body was exhausted. She didn't know how much longer she could go on. 
+level0	2709	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2709	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2709	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2709	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2709	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2709	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2709	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2709	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2711	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2713	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2714	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2716	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2716	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2716	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2716	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2716	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2716	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2716	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2716	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2719	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2719	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2719	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2719	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2719	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2719	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2719	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2719	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2723	MonoBehaviour			9630121984	m_Text	TEXT ON
+level0	2724	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2725	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2725	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2725	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2725	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2725	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2725	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2725	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2725	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2728	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2728	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2728	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2728	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2728	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2728	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2728	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2728	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2730	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2739	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2739	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2739	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2739	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2739	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2739	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2739	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2739	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2741	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2741	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2741	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2741	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2741	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2741	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2741	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2741	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2745	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2747	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2747	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2747	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2747	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2747	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2747	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2747	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2747	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2749	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2751	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2753	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2754	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2754	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2754	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2754	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2754	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2754	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2754	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2754	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2758	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2758	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2758	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2758	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2758	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2758	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2758	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2758	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2760	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2762	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2763	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2770	MonoBehaviour			20887633920	level1atext	Emily's car spun out of control and crashed into a tree. She was dazed and disoriented, trying to make sense of what had just happened. As she looked out of the window, she saw the man walking towards her, his eyes still fixed on her. Emily tried to move, but her seatbelt was jammed, and she couldn't escape. The man reached the car and started pounding on the window, trying to break it open. 
+level0	2776	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2779	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2781	MonoBehaviour			9630121984	m_Text	STORY TEXT ON
+level0	2783	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2783	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2783	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2783	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2783	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2783	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2783	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2783	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2786	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2787	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2787	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2787	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2787	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2787	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2787	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2787	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2787	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2789	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2789	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2789	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2789	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2789	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2789	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2789	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2789	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2796	MonoBehaviour			20887633920	level1atext	Emily tried to fight back, but the man was too strong. He dragged her deeper into the woods, his grip on her hair unrelenting. She could hear his ragged breathing, feel his hot breath on the back of her neck. Emily knew that she was in grave danger, and she had to find a way to escape before it was too late. 
+level0	2797	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2797	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2797	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2797	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2797	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2797	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2797	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2797	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2804	MonoBehaviour			20887633920	level1atext	Emily hesitated for a moment, wondering if she should get in the car. It could be a trap, or it could be someone who wanted to help her. She decided to take the risk and got in the car. It was warm inside, and the seats were comfortable. Emily breathed a sigh of relief, happy to be out of the rain and away from the dangers of the woods. 
+level0	2805	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2808	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2812	MonoBehaviour			9630121984	m_Text	AUDIO ON
+level0	2818	MonoBehaviour			20887633920	level1atext	As Emily sat in the car, she noticed a map and a flashlight on the passenger seat. She picked them up and examined them. The map showed the way to the nearest town, and the flashlight was fully charged. Emily felt a glimmer of hope; maybe she could find her way back to civilization after all. 
+level0	2819	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2821	MonoBehaviour			9630121984	m_Text	AUDIO ON
+level0	2822	MonoBehaviour			9630121984	m_Text	CONTINUE
+level0	2825	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2826	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2826	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2826	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2826	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2826	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2826	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2826	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2826	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2829	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+level0	2829	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+level0	2829	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+level0	2829	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Selected
+level0	2829	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+level0	2829	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_TargetAssemblyTypeName	UnityEngine.GameObject, UnityEngine
+level0	2829	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_MethodName	SetActive
+level0	2829	MonoBehaviour			8170504192	m_OnClick.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+level0	2834	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2835	MonoBehaviour			9630121984	m_Text	FLOATING ROCK
+level0	2837	MonoBehaviour			9630121984	m_Text	QUIT
+level0	2838	MonoBehaviour			9630121984	m_Text	QUIT
+resources.assets	26	TextAsset	PlayMakerAssemblies			m_Script	UnityEngine
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.floatVariables[0].name	movespeed
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.floatVariables[1].name	potionscompleted
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.floatVariables[2].name	potion1completed
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.floatVariables[3].name	potion2completed
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.floatVariables[4].name	potion3completed
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.floatVariables[5].name	potion4completed
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.floatVariables[6].name	potion5completed
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.intVariables[0].name	enemycount
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.intVariables[1].name	reagent1
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.intVariables[2].name	reagent2
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.intVariables[3].name	reagent3
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.intVariables[4].name	reagent4
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.intVariables[5].name	reagent5
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.intVariables[6].name	playerhealth
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[0].name	roundlost
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[1].name	cantshoot
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[2].name	facingleft
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[3].name	byegoblins
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[4].name	reagent1done
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[5].name	reagent2done
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[6].name	reagent3done
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[7].name	reagent4done
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[8].name	reagent5done
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[9].name	waittostart
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[10].name	hobject1found
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[11].name	hobject2found
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[12].name	hobject3found
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[13].name	hobject4found
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[14].name	hobject5found
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[15].name	hobject6found
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[16].name	hobject7found
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[17].name	hobject8found
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[18].name	hobject9found
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[19].name	hobject10found
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[20].name	hobject11found
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[21].name	hobject12found
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[22].name	malevoice
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[23].name	femalevoice
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[24].name	normalplay
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[25].name	autoplay
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[26].name	audioon
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[27].name	audiooff
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[28].name	progresstime
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.boolVariables[29].name	storytexton
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.gameObjectVariables[0].name	currenthintdad
+resources.assets	312	MonoBehaviour	PlayMakerGlobals		25115492352	variables.categories	 
+resources.assets	314	MonoBehaviour			4831838208	m_AnimationTriggers.m_NormalTrigger	Normal
+resources.assets	314	MonoBehaviour			4831838208	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+resources.assets	314	MonoBehaviour			4831838208	m_AnimationTriggers.m_PressedTrigger	Pressed
+resources.assets	314	MonoBehaviour			4831838208	m_AnimationTriggers.m_SelectedTrigger	Highlighted
+resources.assets	314	MonoBehaviour			4831838208	m_AnimationTriggers.m_DisabledTrigger	Disabled
+resources.assets	315	MonoBehaviour			9630121984	m_Text	Round Button
+resources.assets	317	MonoBehaviour			9630121984	m_Text	"Radio Button
+"
+resources.assets	318	MonoBehaviour			9630121984	m_Text	Toggle
+resources.assets	319	MonoBehaviour			9630121984	m_Text	Rect Button
+resources.assets	329	MonoBehaviour			9630121984	m_Text	New Text
+resources.assets	330	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+resources.assets	330	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+resources.assets	330	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+resources.assets	330	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Highlighted
+resources.assets	330	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+resources.assets	332	MonoBehaviour			9630121984	m_Text	100%
+resources.assets	335	MonoBehaviour			9630121984	m_Text	100%
+resources.assets	343	MonoBehaviour			20602421248	m_AnimationTriggers.m_NormalTrigger	Normal
+resources.assets	343	MonoBehaviour			20602421248	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+resources.assets	343	MonoBehaviour			20602421248	m_AnimationTriggers.m_PressedTrigger	Pressed
+resources.assets	343	MonoBehaviour			20602421248	m_AnimationTriggers.m_SelectedTrigger	Highlighted
+resources.assets	343	MonoBehaviour			20602421248	m_AnimationTriggers.m_DisabledTrigger	Disabled
+resources.assets	347	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+resources.assets	347	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+resources.assets	347	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+resources.assets	347	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Highlighted
+resources.assets	347	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+resources.assets	350	MonoBehaviour			14629732352	m_AnimationTriggers.m_NormalTrigger	Normal
+resources.assets	350	MonoBehaviour			14629732352	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+resources.assets	350	MonoBehaviour			14629732352	m_AnimationTriggers.m_PressedTrigger	Pressed
+resources.assets	350	MonoBehaviour			14629732352	m_AnimationTriggers.m_SelectedTrigger	Highlighted
+resources.assets	350	MonoBehaviour			14629732352	m_AnimationTriggers.m_DisabledTrigger	Disabled
+resources.assets	355	MonoBehaviour			10435428352	m_AnimationTriggers.m_NormalTrigger	Normal
+resources.assets	355	MonoBehaviour			10435428352	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+resources.assets	355	MonoBehaviour			10435428352	m_AnimationTriggers.m_PressedTrigger	Pressed
+resources.assets	355	MonoBehaviour			10435428352	m_AnimationTriggers.m_SelectedTrigger	Highlighted
+resources.assets	355	MonoBehaviour			10435428352	m_AnimationTriggers.m_DisabledTrigger	Disabled
+resources.assets	355	MonoBehaviour			10435428352	m_OnValueChanged.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+resources.assets	361	MonoBehaviour			14629732352	m_AnimationTriggers.m_NormalTrigger	Normal
+resources.assets	361	MonoBehaviour			14629732352	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+resources.assets	361	MonoBehaviour			14629732352	m_AnimationTriggers.m_PressedTrigger	Pressed
+resources.assets	361	MonoBehaviour			14629732352	m_AnimationTriggers.m_SelectedTrigger	Highlighted
+resources.assets	361	MonoBehaviour			14629732352	m_AnimationTriggers.m_DisabledTrigger	Disabled
+resources.assets	364	MonoBehaviour			10435428352	m_AnimationTriggers.m_NormalTrigger	Normal
+resources.assets	364	MonoBehaviour			10435428352	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+resources.assets	364	MonoBehaviour			10435428352	m_AnimationTriggers.m_PressedTrigger	Pressed
+resources.assets	364	MonoBehaviour			10435428352	m_AnimationTriggers.m_SelectedTrigger	Highlighted
+resources.assets	364	MonoBehaviour			10435428352	m_AnimationTriggers.m_DisabledTrigger	Disabled
+resources.assets	364	MonoBehaviour			10435428352	m_OnValueChanged.m_PersistentCalls.m_Calls[0].m_MethodName	UpdateLabel
+resources.assets	364	MonoBehaviour			10435428352	m_OnValueChanged.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+resources.assets	368	MonoBehaviour			10435428352	m_AnimationTriggers.m_NormalTrigger	Normal
+resources.assets	368	MonoBehaviour			10435428352	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+resources.assets	368	MonoBehaviour			10435428352	m_AnimationTriggers.m_PressedTrigger	Pressed
+resources.assets	368	MonoBehaviour			10435428352	m_AnimationTriggers.m_SelectedTrigger	Highlighted
+resources.assets	368	MonoBehaviour			10435428352	m_AnimationTriggers.m_DisabledTrigger	Disabled
+resources.assets	368	MonoBehaviour			10435428352	m_OnValueChanged.m_PersistentCalls.m_Calls[0].m_MethodName	UpdateLabel
+resources.assets	368	MonoBehaviour			10435428352	m_OnValueChanged.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+resources.assets	371	MonoBehaviour			9630121984	m_Text	This is a Radio Button.
+resources.assets	372	MonoBehaviour			16089350144	tooltipText	This is a Round Button
+resources.assets	381	MonoBehaviour			9630121984	m_Text	Toggle
+resources.assets	384	MonoBehaviour			14629732352	m_AnimationTriggers.m_NormalTrigger	Normal
+resources.assets	384	MonoBehaviour			14629732352	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+resources.assets	384	MonoBehaviour			14629732352	m_AnimationTriggers.m_PressedTrigger	Pressed
+resources.assets	384	MonoBehaviour			14629732352	m_AnimationTriggers.m_SelectedTrigger	Highlighted
+resources.assets	384	MonoBehaviour			14629732352	m_AnimationTriggers.m_DisabledTrigger	Disabled
+resources.assets	386	MonoBehaviour			16089350144	tooltipText	This is a Round Rectangle Button
+resources.assets	391	MonoBehaviour			21239955456	m_AnimationTriggers.m_NormalTrigger	Normal
+resources.assets	391	MonoBehaviour			21239955456	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+resources.assets	391	MonoBehaviour			21239955456	m_AnimationTriggers.m_PressedTrigger	Pressed
+resources.assets	391	MonoBehaviour			21239955456	m_AnimationTriggers.m_SelectedTrigger	Highlighted
+resources.assets	391	MonoBehaviour			21239955456	m_AnimationTriggers.m_DisabledTrigger	Disabled
+resources.assets	394	MonoBehaviour			4831838208	m_AnimationTriggers.m_NormalTrigger	Normal
+resources.assets	394	MonoBehaviour			4831838208	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+resources.assets	394	MonoBehaviour			4831838208	m_AnimationTriggers.m_PressedTrigger	Pressed
+resources.assets	394	MonoBehaviour			4831838208	m_AnimationTriggers.m_SelectedTrigger	Highlighted
+resources.assets	394	MonoBehaviour			4831838208	m_AnimationTriggers.m_DisabledTrigger	Disabled
+resources.assets	402	MonoBehaviour			8170504192	m_AnimationTriggers.m_NormalTrigger	Normal
+resources.assets	402	MonoBehaviour			8170504192	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+resources.assets	402	MonoBehaviour			8170504192	m_AnimationTriggers.m_PressedTrigger	Pressed
+resources.assets	402	MonoBehaviour			8170504192	m_AnimationTriggers.m_SelectedTrigger	Highlighted
+resources.assets	402	MonoBehaviour			8170504192	m_AnimationTriggers.m_DisabledTrigger	Disabled
+resources.assets	404	MonoBehaviour			9630121984	m_Text	Rnd Rect Button
+resources.assets	407	MonoBehaviour			10435428352	m_AnimationTriggers.m_NormalTrigger	Normal
+resources.assets	407	MonoBehaviour			10435428352	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+resources.assets	407	MonoBehaviour			10435428352	m_AnimationTriggers.m_PressedTrigger	Pressed
+resources.assets	407	MonoBehaviour			10435428352	m_AnimationTriggers.m_SelectedTrigger	Highlighted
+resources.assets	407	MonoBehaviour			10435428352	m_AnimationTriggers.m_DisabledTrigger	Disabled
+resources.assets	407	MonoBehaviour			10435428352	m_OnValueChanged.m_PersistentCalls.m_Calls[0].m_MethodName	UpdateLabel
+resources.assets	407	MonoBehaviour			10435428352	m_OnValueChanged.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+resources.assets	411	MonoBehaviour			9630121984	m_Text	49%
+resources.assets	418	MonoBehaviour			10435428352	m_AnimationTriggers.m_NormalTrigger	Normal
+resources.assets	418	MonoBehaviour			10435428352	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+resources.assets	418	MonoBehaviour			10435428352	m_AnimationTriggers.m_PressedTrigger	Pressed
+resources.assets	418	MonoBehaviour			10435428352	m_AnimationTriggers.m_SelectedTrigger	Highlighted
+resources.assets	418	MonoBehaviour			10435428352	m_AnimationTriggers.m_DisabledTrigger	Disabled
+resources.assets	418	MonoBehaviour			10435428352	m_OnValueChanged.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+resources.assets	422	MonoBehaviour			10435428352	m_AnimationTriggers.m_NormalTrigger	Normal
+resources.assets	422	MonoBehaviour			10435428352	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+resources.assets	422	MonoBehaviour			10435428352	m_AnimationTriggers.m_PressedTrigger	Pressed
+resources.assets	422	MonoBehaviour			10435428352	m_AnimationTriggers.m_SelectedTrigger	Highlighted
+resources.assets	422	MonoBehaviour			10435428352	m_AnimationTriggers.m_DisabledTrigger	Disabled
+resources.assets	422	MonoBehaviour			10435428352	m_OnValueChanged.m_PersistentCalls.m_Calls[0].m_MethodName	UpdateLabel
+resources.assets	422	MonoBehaviour			10435428352	m_OnValueChanged.m_PersistentCalls.m_Calls[0].m_Arguments.m_ObjectArgumentAssemblyTypeName	UnityEngine.Object, UnityEngine
+resources.assets	424	MonoBehaviour			9630121984	m_Text	100%
+resources.assets	428	MonoBehaviour			16089350144	tooltipText	This is a Rectangle Button
+resources.assets	433	MonoBehaviour			9630121984	m_Text	Toggle
+resources.assets	436	MonoBehaviour			14629732352	m_AnimationTriggers.m_NormalTrigger	Normal
+resources.assets	436	MonoBehaviour			14629732352	m_AnimationTriggers.m_HighlightedTrigger	Highlighted
+resources.assets	436	MonoBehaviour			14629732352	m_AnimationTriggers.m_PressedTrigger	Pressed
+resources.assets	436	MonoBehaviour			14629732352	m_AnimationTriggers.m_SelectedTrigger	Highlighted
+resources.assets	436	MonoBehaviour			14629732352	m_AnimationTriggers.m_DisabledTrigger	Disabled
+resources.assets	438	MonoBehaviour			9630121984	m_Text	0%
+unity default resources	11000	MonoBehaviour	GameSkin		201343369216	m_box.m_Name	box
+unity default resources	11000	MonoBehaviour	GameSkin		201343369216	m_button.m_Name	button
+unity default resources	11000	MonoBehaviour	GameSkin		201343369216	m_toggle.m_Name	toggle
+unity default resources	11000	MonoBehaviour	GameSkin		201343369216	m_label.m_Name	label
+unity default resources	11000	MonoBehaviour	GameSkin		201343369216	m_textField.m_Name	textfield
+unity default resources	11000	MonoBehaviour	GameSkin		201343369216	m_textArea.m_Name	textarea
+unity default resources	11000	MonoBehaviour	GameSkin		201343369216	m_window.m_Name	window
+unity default resources	11000	MonoBehaviour	GameSkin		201343369216	m_horizontalSlider.m_Name	horizontalslider
+unity default resources	11000	MonoBehaviour	GameSkin		201343369216	m_horizontalSliderThumb.m_Name	horizontalsliderthumb
+unity default resources	11000	MonoBehaviour	GameSkin		201343369216	m_verticalSlider.m_Name	verticalslider
+unity default resources	11000	MonoBehaviour	GameSkin		201343369216	m_verticalSliderThumb.m_Name	verticalsliderthumb
+unity default resources	11000	MonoBehaviour	GameSkin		201343369216	m_horizontalScrollbar.m_Name	horizontalscrollbar
+unity default resources	11000	MonoBehaviour	GameSkin		201343369216	m_horizontalScrollbarThumb.m_Name	horizontalscrollbarthumb
+unity default resources	11000	MonoBehaviour	GameSkin		201343369216	m_horizontalScrollbarLeftButton.m_Name	horizontalscrollbarleftbutton
+unity default resources	11000	MonoBehaviour	GameSkin		201343369216	m_horizontalScrollbarRightButton.m_Name	horizontalscrollbarrightbutton
+unity default resources	11000	MonoBehaviour	GameSkin		201343369216	m_verticalScrollbar.m_Name	verticalscrollbar
+unity default resources	11000	MonoBehaviour	GameSkin		201343369216	m_verticalScrollbarThumb.m_Name	verticalscrollbarthumb
+unity default resources	11000	MonoBehaviour	GameSkin		201343369216	m_verticalScrollbarUpButton.m_Name	verticalscrollbarupbutton
+unity default resources	11000	MonoBehaviour	GameSkin		201343369216	m_verticalScrollbarDownButton.m_Name	verticalscrollbardownbutton
+unity default resources	11000	MonoBehaviour	GameSkin		201343369216	m_ScrollView.m_Name	scrollview
+unity default resources	11000	MonoBehaviour	GameSkin		201343369216	m_CustomStyles[0].m_Name	thumb
+unity default resources	11000	MonoBehaviour	GameSkin		201343369216	m_CustomStyles[1].m_Name	leftbutton
+unity default resources	11000	MonoBehaviour	GameSkin		201343369216	m_CustomStyles[2].m_Name	rightbutton
