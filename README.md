@@ -2,6 +2,16 @@
 
 适用于当前 Steam 版本，商店地址：https://store.steampowered.com/app/2408880/Hunting_The_Hunter/
 
+## 效果预览
+
+主菜单：
+
+![汉化后的主菜单](screenshots/20261018030152_1.jpg)
+
+剧情画面：
+
+![汉化后的剧情文字](screenshots/20261018030201_1.jpg)
+
 ## 安装
 
 1. 复制 `dist/Hunting The Hunter_Data` 整个文件夹到游戏根目录覆盖原文件。
